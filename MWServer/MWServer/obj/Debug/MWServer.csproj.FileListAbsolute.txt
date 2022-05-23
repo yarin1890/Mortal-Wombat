@@ -1,0 +1,86 @@
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\bin\Debug\MWServer.exe.config
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\bin\Debug\MWServer.exe
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\bin\Debug\MWServer.pdb
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.csprojResolveAssemblyReference.cache
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\App.g.cs
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MainWindow.baml
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.g.resources
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.Cache
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.exe
+c:\users\user-20\documents\visual studio 2015\Projects\MWServer\MWServer\obj\Debug\MWServer.pdb
+C:\Users\User-20\Desktop\MWServer\MWServer\bin\Debug\MWServer.exe.config
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.exe
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.pdb
+C:\Users\User-20\Desktop\MWServer\MWServer\bin\Debug\MWServer.exe
+C:\Users\User-20\Desktop\MWServer\MWServer\bin\Debug\MWServer.pdb
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.csprojResolveAssemblyReference.cache
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\App.g.cs
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MainWindow.baml
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.g.resources
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+C:\Users\User-20\Desktop\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.Cache
+F:\MWServer\MWServer\bin\Debug\MWServer.exe.config
+F:\MWServer\MWServer\obj\Debug\MWServer.exe
+F:\MWServer\MWServer\obj\Debug\MWServer.pdb
+F:\MWServer\MWServer\bin\Debug\MWServer.exe
+F:\MWServer\MWServer\bin\Debug\MWServer.pdb
+F:\MWServer\MWServer\obj\Debug\MWServer.csprojResolveAssemblyReference.cache
+F:\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+F:\MWServer\MWServer\obj\Debug\App.g.cs
+F:\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+F:\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+F:\MWServer\MWServer\obj\Debug\MainWindow.baml
+F:\MWServer\MWServer\obj\Debug\MWServer.g.resources
+F:\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+F:\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MWServer\MWServer\bin\Debug\MWServer.exe.config
+C:\Users\User\Desktop\MWServer\MWServer\bin\Debug\MWServer.exe
+C:\Users\User\Desktop\MWServer\MWServer\bin\Debug\MWServer.pdb
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.g.resources
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.exe
+C:\Users\User\Desktop\MWServer\MWServer\obj\Debug\MWServer.pdb
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\bin\Debug\MWServer.exe.config
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.exe
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.pdb
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\bin\Debug\MWServer.exe
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\bin\Debug\MWServer.pdb
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.csprojResolveAssemblyReference.cache
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\App.g.cs
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MainWindow.baml
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.g.resources
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+C:\Users\עמית הולנד\Downloads\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\MWServer\MWServer\bin\Debug\MWServer.exe.config
+C:\Users\Administrator\Downloads\MWServer\MWServer\bin\Debug\MWServer.exe
+C:\Users\Administrator\Downloads\MWServer\MWServer\bin\Debug\MWServer.pdb
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.cache
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer_MarkupCompile.lref
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.g.resources
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.Properties.Resources.resources
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.exe
+C:\Users\Administrator\Downloads\MWServer\MWServer\obj\Debug\MWServer.pdb

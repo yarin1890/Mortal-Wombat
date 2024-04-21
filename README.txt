@@ -1,4 +1,4 @@
-*CREATED IN 2017 AS A HIGH SCHOOL PROJECT*
+# CREATED IN 2017 AS A HIGH SCHOOL PROJECT
 
 First version of Mortal Wombat - A game that resembles the famous 1v1 2D fighting game "Mortal Kombat"
 
